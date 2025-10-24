@@ -44,4 +44,10 @@ Your site should be deployed to `<your github username>.github.io/<your reposito
 
 Please submit both a link to your repository and a link to the live site. Also please include any comments on stumbling blocks or difficulties encountered while completing the assignment.
 
+## Bootstrap Components used:
+- Navbar: https://getbootstrap.com/docs/5.3/components/navbar/
+- Dropdown https://getbootstrap.com/docs/5.3/components/dropdowns/
+- Scrollspy https://getbootstrap.com/docs/5.3/components/scrollspy/
+
+
 Website URL: https://fell67.github.io/m11-hw11-abreu-victoria/
